@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668475521752",
+    "project_id": "planora-c5503",
+    "storage_bucket": "planora-c5503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668475521752:android:657c477f61f670de8ab5ad",
+        "android_client_info": {
+          "package_name": "com.example.planora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMAfBf8iExGQIkSMFD1VIhW-hNwqiYiLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
